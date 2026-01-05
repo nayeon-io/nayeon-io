@@ -5,10 +5,10 @@
 </p>
 
 ### 💻 About Me
-- ⚙️ **Backend-Focused**: Java와 Spring Boot를 기반으로 안정적이고 효율적인 서버 비즈니스 로직을 구축합니다.
-- 🐘 **Database**: **PostgreSQL**을 활용한 데이터 모델링과 쿼리 최적화에 관심이 많습니다.
-- ☁️ **Cloud Infrastructure**: **Microsoft Azure** 환경에서 서비스를 설계하고 배포한 경험이 있습니다.
-- 📱 **Mobile Capable**: Android(Java)와 iOS(Swift) 네이티브 개발 경험을 통해 클라이언트 환경을 깊이 이해하는 API를 설계합니다.
+- ⚙️ **Backend Specialist**: **Java/Spring Boot**와 **Node.js/NestJS**를 활용하여 확장성 있는 서버 아키텍처를 설계합니다.
+- 🐘 **Database**: **PostgreSQL**을 기반으로 최적화된 데이터 모델링을 수행합니다.
+- ☁️ **Multi-Cloud**: **AWS** 및 **Azure** 인프라를 활용하여 안정적인 서비스 배포와 운영 환경을 구축합니다.
+- 📱 **Mobile Savvy**: Java(Android) 및 Swift(iOS) 네이티브 개발 역량을 바탕으로 클라이언트와 긴밀하게 소통하는 API를 개발합니다.
 
 ---
 
@@ -18,7 +18,12 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
