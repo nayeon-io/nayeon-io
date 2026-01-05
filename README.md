@@ -45,7 +45,6 @@
 
 ### 📫 Contact
 - **Email**: [nayeonkim20000725@gmail.com]
-- **LinkedIn**: [링크드인 주소 입력]
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=nayeon-io&color=0078D4" alt="Views" />
